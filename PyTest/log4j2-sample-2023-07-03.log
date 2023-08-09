@@ -1,0 +1,1634 @@
+[INFO ] 2023-07-03 00:17:39.364 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:17:39.389 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:17:39.603 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:17:46.878 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:17:46.879 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:17:46.888 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:18:02.500 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:18:02.501 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:18:03.829 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:18:03.830 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:19:29.583 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:19:29.606 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:19:29.814 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:19:35.624 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:19:35.625 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:19:35.633 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:19:39.286 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:19:39.288 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:19:42.332 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:19:42.332 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:20:26.596 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:20:26.597 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:20:27.002 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 00:20:27.430 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 00:23:34.029 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:23:34.151 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:23:34.337 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:23:40.677 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:23:40.678 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:23:40.686 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:23:43.400 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:23:43.401 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:23:45.359 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:23:45.359 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:27:24.290 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:27:24.291 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:27:32.091 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:27:32.113 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:27:35.763 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:27:35.783 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:27:35.931 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:27:43.072 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:27:43.072 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:27:43.079 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:27:48.038 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:27:48.039 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:27:49.833 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:27:49.833 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:28:23.256 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:28:23.256 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:28:23.896 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 00:28:24.169 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 00:28:30.786 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:28:30.804 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:28:31.080 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:28:36.632 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:28:36.633 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:28:36.639 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:28:42.420 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:28:42.515 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:28:43.806 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:28:43.807 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:30:43.793 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:30:43.794 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:30:44.141 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 00:30:44.397 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 00:30:50.184 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:30:50.203 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:30:50.386 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:30:56.181 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:30:56.182 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:30:56.191 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:31:09.227 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:31:09.228 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:31:10.684 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:31:10.685 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:33:50.995 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:33:50.996 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:33:51.392 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 00:33:52.743 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 00:34:19.426 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:34:19.448 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:34:19.644 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:34:26.009 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:34:26.009 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:34:26.018 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:34:36.670 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:34:36.671 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:34:37.766 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:34:37.766 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:35:02.986 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:35:02.988 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:35:03.414 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 00:35:03.668 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 00:36:05.593 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:36:05.614 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:36:05.818 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:36:12.353 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:36:12.353 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:36:12.360 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:36:20.752 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:36:20.753 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:36:23.005 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:36:23.005 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:36:58.541 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:36:58.542 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:36:58.907 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 00:36:59.244 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 00:37:06.635 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 00:37:06.655 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 00:37:06.833 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 00:37:14.041 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 00:37:14.042 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 00:37:14.050 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 00:37:16.601 [main] Log - Login exitoso
+[INFO ] 2023-07-03 00:37:16.602 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 00:37:19.430 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 00:37:19.431 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 00:37:25.909 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 00:37:25.910 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 00:37:26.276 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 00:37:26.609 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:02:53.671 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:02:53.694 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:02:53.926 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:03:00.289 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:03:00.289 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:03:00.296 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:03:03.656 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:03:03.658 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:03:05.793 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:03:05.793 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:03:26.533 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:03:26.533 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:03:26.534 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:03:26.883 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:03:27.144 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:04:10.248 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:04:10.268 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:04:10.438 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:04:16.918 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:04:16.920 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:04:16.927 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:04:18.052 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:04:18.054 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:04:19.772 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:04:19.772 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:04:19.909 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:04:19.910 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:04:19.911 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:04:20.231 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:04:20.527 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:04:56.978 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:04:56.997 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:04:57.271 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:05:04.250 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:05:04.250 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:05:04.262 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:05:06.953 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:05:06.955 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:05:08.904 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:05:08.905 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:07:03.482 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:07:03.484 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:07:03.484 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:07:05.682 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:07:05.948 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:07:13.939 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:07:13.959 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:07:14.140 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:07:20.003 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:07:20.004 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:07:20.013 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:07:22.726 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:07:22.728 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:07:24.639 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:07:24.640 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:07:43.501 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:07:43.502 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:07:43.503 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:07:43.870 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:07:44.257 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:07:51.638 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:07:51.657 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:07:51.827 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:07:57.410 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:07:57.411 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:07:57.416 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:07:59.022 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:07:59.023 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:08:00.744 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:08:00.744 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:08:00.890 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:08:00.890 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:08:00.891 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:08:01.201 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:08:01.507 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:10:00.978 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:10:00.996 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:10:01.160 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:10:07.250 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:10:07.250 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:10:07.258 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:10:08.350 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:10:08.351 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:10:10.109 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:10:10.109 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:10:10.248 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:10:10.248 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:10:10.249 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:10:10.535 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:10:10.831 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:10:41.270 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:10:41.291 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:10:41.443 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:10:47.157 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:10:47.157 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:10:47.164 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:10:48.109 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:10:48.111 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:10:49.420 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:10:49.421 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:10:49.676 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:10:49.676 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:10:49.677 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:10:49.931 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:10:50.194 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:11:26.595 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:11:26.614 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:11:26.760 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:11:32.140 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:11:32.140 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:11:32.146 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:11:34.295 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:11:34.296 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:11:36.047 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:11:36.047 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:11:36.192 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:11:36.192 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:11:36.193 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:11:36.478 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:11:36.747 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:12:13.050 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:12:13.068 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:12:13.216 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:12:18.529 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:12:18.530 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:12:18.534 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:12:20.200 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:12:20.201 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:12:21.261 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:12:21.261 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:12:21.524 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:12:21.524 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:12:21.525 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:12:21.823 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:12:22.101 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:13:41.267 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:13:41.285 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:13:41.442 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:13:47.248 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:13:47.248 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:13:47.256 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:13:48.382 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:13:48.383 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:13:50.152 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:13:50.152 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:13:50.335 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:13:50.335 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:13:50.336 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:13:50.616 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:13:50.898 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:14:56.136 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:14:56.155 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:14:56.331 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:15:02.022 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:15:02.023 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:15:02.030 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:15:04.295 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:15:04.297 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:15:05.316 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:15:05.316 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:15:05.614 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:15:05.614 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:15:05.615 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:15:05.947 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:15:06.245 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:16:11.259 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:16:11.279 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:16:11.448 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:16:17.447 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:16:17.447 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:16:17.455 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:16:19.261 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:16:19.263 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:16:20.155 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:16:20.155 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:16:20.413 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:16:20.415 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:16:20.746 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:16:21.042 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:17:50.392 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:17:50.412 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:17:50.583 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:17:56.803 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:17:56.804 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:17:56.811 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:17:58.252 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:17:58.253 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:17:59.393 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:17:59.394 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:17:59.733 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:17:59.734 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:18:00.028 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:18:00.287 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:18:22.401 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:18:22.423 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:18:22.571 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:18:27.977 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:18:27.978 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:18:27.983 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:18:29.080 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:18:29.082 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:18:30.283 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:18:30.283 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:18:30.477 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:18:30.479 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:18:30.718 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:18:30.969 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:20:32.337 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:20:32.356 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:20:32.499 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:20:38.136 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:20:38.138 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:20:38.143 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:20:39.037 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:20:39.038 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:20:40.203 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:20:40.203 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:20:40.475 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:20:40.476 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:20:40.718 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:20:40.969 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:21:57.901 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:21:57.919 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:21:58.065 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:22:04.415 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:22:04.415 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:22:04.422 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:22:05.820 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:22:05.821 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:22:06.878 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:22:06.878 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:22:07.164 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:22:07.166 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:22:07.452 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:22:07.707 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:23:22.578 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:23:22.595 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:23:22.834 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:23:28.857 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:23:28.858 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:23:28.866 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:23:29.999 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:23:30.001 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:23:31.093 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:23:31.093 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:23:33.368 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:23:33.369 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:23:33.728 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:23:34.009 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:24:49.737 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:24:49.759 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:24:49.943 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:24:56.998 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:24:56.998 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:24:57.008 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:24:57.969 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:24:57.970 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:24:59.055 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:24:59.055 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:24:59.514 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:24:59.515 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:24:59.851 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:25:00.156 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:25:47.546 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:25:47.565 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:25:47.739 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:25:55.768 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:25:55.786 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:25:55.927 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:26:01.469 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:26:01.469 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:26:01.478 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:26:03.545 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:26:03.546 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:26:05.126 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:26:05.127 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:26:05.270 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 01:26:05.271 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:26:05.579 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:26:05.862 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:37:48.508 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:37:48.528 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:37:48.714 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:37:56.214 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:37:56.215 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:37:56.222 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:37:57.112 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:37:57.113 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:37:58.092 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:37:58.092 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:37:58.302 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:37:58.302 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:37:58.303 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:37:58.558 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:37:58.846 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:38:54.727 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:38:54.747 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:38:54.943 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:39:00.753 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:39:00.754 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:39:00.761 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:39:05.326 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:39:05.327 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:39:06.537 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:39:06.537 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:39:45.118 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:39:45.118 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:39:45.119 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:39:46.805 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:39:47.063 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:39:58.839 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:39:58.858 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:39:59.159 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:40:06.097 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:40:06.097 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:40:06.106 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:40:08.439 [main] Log - Test failed: loginSuccess
+[INFO ] 2023-07-03 01:40:08.441 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:40:08.442 [main] Log - Test skipped: addProductToBasket
+[INFO ] 2023-07-03 01:40:08.442 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:40:08.923 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:40:09.259 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:40:20.637 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:40:20.656 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:40:20.798 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:40:27.688 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:40:27.688 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:40:27.696 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:40:30.258 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:40:30.259 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:40:31.155 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:40:31.155 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:41:23.980 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:41:23.980 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:41:23.981 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:41:24.319 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:41:24.560 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:41:33.201 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:41:33.219 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:41:33.397 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:41:38.803 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:41:38.803 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:41:38.810 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:41:44.594 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:41:44.596 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:41:46.104 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:41:46.104 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:45:38.928 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:45:38.947 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:45:39.129 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:45:44.383 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:45:44.383 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:45:44.390 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:45:49.487 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:45:49.489 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:45:51.835 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:45:51.835 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:46:25.036 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:46:25.036 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:46:25.037 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:46:25.388 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:46:25.864 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:46:30.577 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:46:30.594 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:46:30.762 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:46:38.001 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:46:38.001 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:46:38.008 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:46:38.875 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:46:38.876 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:46:39.853 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:46:39.853 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:46:40.099 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:46:40.099 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:46:40.101 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:46:40.355 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:46:40.598 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:47:08.299 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:47:08.324 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:47:08.515 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:47:14.341 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:47:14.341 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:47:14.349 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:47:15.924 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:47:15.925 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:47:16.903 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:47:16.903 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:47:17.255 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:47:17.256 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:47:17.256 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:47:17.537 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:47:17.761 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:47:42.392 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:47:42.411 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:47:42.558 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:47:48.112 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:47:48.112 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:47:48.119 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:47:51.478 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:47:51.479 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:47:52.597 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:47:52.598 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:49:25.882 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:49:25.883 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:49:25.884 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:49:26.425 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:49:26.750 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:49:47.384 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:49:47.403 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:49:47.564 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:49:52.802 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:49:52.802 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:49:52.809 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:49:53.835 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:49:53.836 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:49:55.765 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:49:55.765 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:50:00.143 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:50:00.143 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:50:00.144 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:50:00.465 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:50:00.754 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:51:56.050 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:51:56.068 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:51:56.243 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:52:01.524 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:52:01.525 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:52:01.533 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:52:03.257 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:52:03.259 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:52:06.011 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:52:06.012 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:52:10.293 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:52:10.294 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:52:10.295 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:52:10.605 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:52:10.911 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:56:30.357 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:56:30.378 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:56:30.578 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:56:37.995 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:56:37.997 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:56:38.005 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:56:38.870 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:56:38.871 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:56:39.854 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:56:39.855 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:56:46.276 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:56:46.277 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:56:46.278 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:56:46.603 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:56:46.906 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 01:59:35.333 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 01:59:35.348 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 01:59:35.513 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 01:59:41.260 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 01:59:41.261 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 01:59:41.269 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 01:59:42.158 [main] Log - Login exitoso
+[INFO ] 2023-07-03 01:59:42.159 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 01:59:43.825 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 01:59:43.826 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 01:59:48.315 [main] Log - Product added successfully
+[INFO ] 2023-07-03 01:59:48.316 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 01:59:48.317 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 01:59:48.669 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 01:59:48.956 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:00:37.077 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:00:37.095 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:00:37.245 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:00:42.659 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:00:42.659 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:00:42.665 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:00:43.860 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:00:43.860 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:00:45.888 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:00:45.888 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:00:50.469 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:00:50.469 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:00:50.470 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:00:50.793 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:00:51.074 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:07:08.604 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:07:08.624 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:07:08.852 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:07:15.291 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:07:15.291 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:07:15.298 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:07:16.758 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:07:16.761 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:07:17.954 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:07:17.955 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:07:23.136 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:07:23.137 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:07:23.462 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:07:23.738 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:09:10.299 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:09:10.317 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:09:10.517 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:09:17.883 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:09:17.884 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:09:17.893 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:09:18.851 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:09:18.852 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:09:20.566 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:09:20.566 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:09:27.750 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:09:27.751 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:09:28.094 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:09:28.374 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:12:08.833 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:12:08.851 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:12:09.023 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:12:16.052 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:12:16.053 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:12:16.061 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:12:16.987 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:12:16.988 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:12:18.105 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:12:18.105 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:12:23.269 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:12:23.270 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:12:23.614 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:12:23.919 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:13:43.058 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:13:43.076 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:13:43.249 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:13:49.302 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:13:49.302 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:13:49.309 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:13:50.468 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:13:50.468 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:13:52.217 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:13:52.218 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:13:58.408 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:13:58.409 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:13:58.728 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:13:59.016 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:14:32.008 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:14:32.026 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:14:32.196 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:14:38.612 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:14:38.613 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:14:38.619 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:14:40.097 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:14:40.098 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:14:41.836 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:14:41.836 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:14:48.011 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:14:48.013 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:14:48.382 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:14:48.682 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:15:40.829 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:15:40.849 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:15:41.022 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:15:48.120 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:15:48.120 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:15:48.129 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:15:49.065 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:15:49.066 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:15:50.776 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:15:50.777 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:15:56.913 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:15:56.913 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:15:57.237 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:15:57.536 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:17:10.632 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:17:10.652 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:17:10.821 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:17:18.290 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:17:18.291 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:17:18.300 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:17:19.215 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:17:19.217 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:17:20.129 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:17:20.129 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:17:26.550 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:17:26.550 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:17:26.551 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:17:26.900 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:17:27.198 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:22:26.482 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:22:26.502 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:22:26.698 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:22:32.590 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:22:32.590 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:22:32.600 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:22:33.506 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:22:33.507 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:22:35.693 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:22:35.694 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:22:37.304 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:22:37.304 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:22:37.305 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:22:37.642 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:22:37.905 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:24:28.573 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:24:28.591 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:24:28.764 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:24:35.117 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:24:35.117 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:24:35.125 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:24:36.810 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:24:36.811 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:24:38.200 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:24:38.200 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:24:45.619 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:24:45.620 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:24:45.621 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:24:45.932 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:24:46.221 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:25:19.295 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:25:19.317 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:25:19.492 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:25:26.127 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:25:26.128 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:25:26.134 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:25:27.077 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:25:27.078 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:25:28.950 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:25:28.951 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:25:30.011 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:25:30.012 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:25:30.013 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:25:30.317 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:25:30.579 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:25:50.134 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:25:50.153 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:25:50.300 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:25:57.213 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:25:57.213 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:25:57.221 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:25:58.150 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:25:58.150 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:25:59.937 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:25:59.938 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:26:06.325 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:26:06.325 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:26:06.326 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:26:06.668 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:26:06.953 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:27:41.198 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:27:41.218 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:27:41.391 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:27:48.699 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:27:48.700 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:27:48.708 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:27:49.588 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:27:49.589 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:27:50.477 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:27:50.477 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:27:56.972 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:27:56.972 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:27:56.973 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:27:57.347 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:27:57.642 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:28:28.813 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:28:28.831 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:28:29.014 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:28:34.942 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:28:34.943 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:28:34.949 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:28:36.734 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:28:36.735 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:28:37.872 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:28:37.873 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:28:44.287 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:28:44.287 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:28:44.288 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:28:44.601 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:28:44.901 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:29:03.517 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:29:03.536 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:29:03.826 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:29:09.707 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:29:09.707 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:29:09.713 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:29:11.385 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:29:11.387 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:29:12.531 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:29:12.533 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:29:19.074 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:29:19.075 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:29:19.076 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:29:19.382 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:29:19.609 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:31:51.316 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:31:51.335 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:31:51.600 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:31:58.311 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:31:58.311 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:31:58.317 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:31:59.801 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:31:59.802 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:32:00.727 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:32:00.727 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:32:01.025 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:32:01.025 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:32:01.026 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:32:01.310 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:32:01.603 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:32:23.954 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:32:23.972 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:32:24.123 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:32:29.696 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:32:29.698 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:32:29.704 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:32:31.319 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:32:31.321 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:32:33.076 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:32:33.078 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:32:33.285 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:32:33.285 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:32:33.286 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:32:33.606 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:32:33.925 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:33:34.971 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:33:34.990 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:33:35.139 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:33:40.713 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:33:40.714 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:33:40.719 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:33:41.620 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:33:41.621 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:33:42.764 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:33:42.764 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:33:49.272 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:33:49.273 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:33:49.274 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:33:49.620 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:33:49.910 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:34:57.548 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:34:57.566 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:34:57.740 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:35:03.315 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:35:03.315 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:35:03.321 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:35:04.512 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:35:04.513 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:35:06.748 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:35:06.749 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:35:08.569 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:35:08.570 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:35:08.571 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:35:08.857 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:35:09.126 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:39:11.162 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:39:11.184 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:39:11.334 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:39:18.434 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:39:18.434 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:39:18.444 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:39:22.168 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:39:22.170 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:39:23.154 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:39:23.155 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:40:07.869 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:40:07.869 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:40:08.218 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:40:08.484 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:41:28.927 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:41:28.949 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:41:29.141 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:41:35.277 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:41:35.278 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:41:35.287 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:41:37.055 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:41:37.057 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:41:38.861 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:41:38.862 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:41:45.266 [main] Log - Product added successfully
+[INFO ] 2023-07-03 02:41:45.268 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 02:41:45.269 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:41:45.599 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:41:45.824 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 02:44:52.062 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 02:44:52.083 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 02:44:52.271 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 02:44:59.238 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 02:44:59.239 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 02:44:59.247 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 02:45:00.167 [main] Log - Login exitoso
+[INFO ] 2023-07-03 02:45:00.168 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 02:45:01.085 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 02:45:01.085 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 02:45:05.378 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 02:45:05.379 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 02:45:05.731 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 02:45:06.037 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 21:54:27.100 [main] Log - Suite started: Default Suite
+[INFO ] 2023-07-03 21:54:27.116 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:54:27.316 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:54:35.103 [main] Log - Test started: registerWithParams
+[INFO ] 2023-07-03 21:54:35.104 [main] Log - Starting register test with params
+[INFO ] 2023-07-03 21:54:39.526 [main] Log - Se registro correctamente
+[INFO ] 2023-07-03 21:54:39.527 [main] Log - Test passed: registerWithParams
+[INFO ] 2023-07-03 21:54:39.528 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:54:39.909 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:54:40.135 [main] Log - Suite finished: Default Suite
+[INFO ] 2023-07-03 21:55:12.623 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 21:55:12.639 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:55:12.808 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:55:18.704 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 21:55:18.704 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 21:55:18.713 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 21:55:24.420 [main] Log - Test failed: loginSuccess
+[INFO ] 2023-07-03 21:55:24.423 [main] Log - Test started: testAddress
+[INFO ] 2023-07-03 21:55:24.423 [main] Log - Test skipped: testAddress
+[INFO ] 2023-07-03 21:55:24.424 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:55:24.754 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:55:25.148 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 21:55:41.994 [main] Log - Suite started: Default Suite
+[INFO ] 2023-07-03 21:55:42.013 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:55:42.183 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:55:47.853 [main] Log - Test started: registerWithParams
+[INFO ] 2023-07-03 21:55:47.854 [main] Log - Starting register test with params
+[INFO ] 2023-07-03 21:55:52.219 [main] Log - Se registro correctamente
+[INFO ] 2023-07-03 21:55:52.220 [main] Log - Test passed: registerWithParams
+[INFO ] 2023-07-03 21:55:52.221 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:55:52.540 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:55:52.881 [main] Log - Suite finished: Default Suite
+[INFO ] 2023-07-03 21:56:20.361 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 21:56:20.379 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:56:20.548 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:56:25.843 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 21:56:25.843 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 21:56:25.851 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 21:56:26.819 [main] Log - Login exitoso
+[INFO ] 2023-07-03 21:56:26.821 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 21:56:28.040 [main] Log - Test started: testAddress
+[INFO ] 2023-07-03 21:56:28.040 [main] Log - Starting testAddress test
+[INFO ] 2023-07-03 21:56:29.533 [main] Log - Address se registro correctamente
+[INFO ] 2023-07-03 21:56:29.533 [main] Log - Test passed: testAddress
+[INFO ] 2023-07-03 21:56:29.534 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:56:29.812 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:56:30.084 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 21:56:39.908 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 21:56:39.926 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:56:40.066 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:56:45.239 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 21:56:45.240 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 21:56:45.246 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 21:56:46.139 [main] Log - Login exitoso
+[INFO ] 2023-07-03 21:56:46.140 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 21:56:47.269 [main] Log - Test started: addNewCard
+[INFO ] 2023-07-03 21:56:47.269 [main] Log - Starting addNewCard test
+[INFO ] 2023-07-03 21:56:53.808 [main] Log - Card added successfully
+[INFO ] 2023-07-03 21:56:53.808 [main] Log - Test passed: addNewCard
+[INFO ] 2023-07-03 21:56:53.809 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:56:54.153 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:56:54.449 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 21:57:03.696 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 21:57:03.714 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:57:03.971 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:57:09.440 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 21:57:09.440 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 21:57:09.446 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 21:57:10.334 [main] Log - Login exitoso
+[INFO ] 2023-07-03 21:57:10.335 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 21:57:11.463 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 21:57:11.464 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 21:57:17.796 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 21:57:17.797 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:57:18.149 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:57:18.451 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 21:58:13.710 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 21:58:13.728 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:58:13.898 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:58:19.347 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 21:58:19.348 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 21:58:19.355 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 21:58:20.242 [main] Log - Login exitoso
+[INFO ] 2023-07-03 21:58:20.243 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 21:58:21.393 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 21:58:21.393 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 21:58:27.754 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 21:58:27.755 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:58:28.116 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:58:28.480 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 21:59:03.937 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 21:59:03.959 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 21:59:04.147 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 21:59:09.725 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 21:59:09.725 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 21:59:09.731 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 21:59:10.872 [main] Log - Login exitoso
+[INFO ] 2023-07-03 21:59:10.873 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 21:59:11.905 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 21:59:11.906 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 21:59:15.223 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 21:59:15.224 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 21:59:15.563 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 21:59:15.872 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:03:37.738 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:03:37.761 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:03:37.958 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:03:44.847 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:03:44.848 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:03:44.855 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:03:45.793 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:03:45.794 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:03:46.905 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:03:46.906 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:03:50.229 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:03:50.230 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:03:50.663 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:03:50.956 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:10:42.927 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:10:42.949 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:10:43.227 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:10:48.973 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:10:48.973 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:10:48.980 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:10:50.159 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:10:50.160 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:10:51.314 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:10:51.315 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:10:54.721 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:10:54.722 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:10:55.154 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:10:55.573 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:11:37.169 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:11:37.190 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:11:37.390 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:11:40.596 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:11:40.616 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:11:40.783 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:11:46.360 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:11:46.360 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:11:46.367 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:11:47.304 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:11:47.305 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:11:48.590 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:11:48.590 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:11:57.862 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:11:57.863 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:11:58.305 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:11:58.614 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:12:37.027 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:12:37.050 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:12:37.325 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:12:42.930 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:12:42.931 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:12:42.939 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:12:49.407 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:12:49.408 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:12:50.558 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:12:50.558 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:13:27.012 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:13:27.012 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:13:28.989 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:13:29.302 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:14:01.120 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:14:01.137 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:14:01.416 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:14:06.827 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:14:06.828 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:14:06.834 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:14:07.745 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:14:07.746 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:14:08.895 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:14:08.896 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:14:24.204 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:14:24.204 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:14:24.505 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:14:24.781 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:14:45.314 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:14:45.332 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:14:45.505 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:14:50.901 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:14:50.902 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:14:50.911 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:14:51.819 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:14:51.820 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:14:52.999 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:14:52.999 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:14:58.146 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:14:58.147 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:14:58.437 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:14:58.716 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:15:43.962 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:15:43.981 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:15:44.165 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:15:49.747 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:15:49.747 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:15:49.755 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:15:50.699 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:15:50.700 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:15:51.996 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:15:51.997 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:16:07.334 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:16:07.335 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:16:07.799 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:16:08.188 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:16:36.567 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:16:36.586 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:16:36.796 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:16:42.612 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:16:42.612 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:16:42.621 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:16:43.766 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:16:43.768 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:16:44.920 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:16:44.920 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:17:00.276 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:17:00.277 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:17:00.692 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:17:01.192 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:17:29.102 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:17:29.121 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:17:29.391 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:17:35.059 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:17:35.059 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:17:35.067 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:17:36.208 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:17:36.209 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:17:37.379 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:17:37.380 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:17:43.733 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:17:43.734 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:17:44.194 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:17:44.497 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:21:21.742 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:21:21.759 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:21:22.029 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:21:27.649 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:21:27.650 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:21:27.658 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:21:28.593 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:21:28.594 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:21:29.917 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:21:29.918 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:21:32.113 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:21:32.114 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:21:32.426 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:21:32.692 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:22:49.849 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:22:49.976 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:22:50.181 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:22:56.336 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:22:56.338 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:22:56.346 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:22:59.912 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:22:59.913 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:23:01.305 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:23:01.306 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:23:59.713 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:23:59.714 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:24:00.024 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:24:00.308 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:24:05.823 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:24:05.844 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:24:06.015 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:24:11.335 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:24:11.335 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:24:11.341 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:24:12.226 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:24:12.227 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:24:13.439 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:24:13.439 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:24:15.642 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:24:15.643 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:24:16.054 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:24:16.293 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:24:52.085 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:24:52.106 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:24:52.248 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:24:57.512 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:24:57.512 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:24:57.519 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:24:58.434 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:24:58.436 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:24:59.560 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:24:59.561 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:25:01.742 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:25:01.743 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:25:02.046 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:25:02.272 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:25:34.899 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:25:34.919 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:25:35.055 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:25:40.593 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:25:40.593 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:25:40.599 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:25:41.531 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:25:41.532 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:25:42.687 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:25:42.687 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:25:44.873 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:25:44.874 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:25:45.175 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:25:45.405 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:26:06.370 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:26:06.389 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:26:06.530 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:26:11.532 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:26:11.532 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:26:11.539 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:26:13.001 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:26:13.005 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:26:14.358 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:26:14.359 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:26:16.555 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:26:16.556 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:26:16.870 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:26:17.154 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:28:10.775 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:28:10.793 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:28:10.976 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:28:16.770 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:28:16.772 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:28:16.779 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:28:17.890 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:28:17.891 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:28:18.945 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:28:18.946 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:28:21.192 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:28:21.193 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:28:21.516 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:28:21.925 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:29:05.231 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:29:05.248 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:29:05.420 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:29:10.783 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:29:10.783 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:29:10.790 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:29:11.673 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:29:11.674 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:29:12.884 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:29:12.885 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:29:15.071 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:29:15.072 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:29:15.360 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:29:15.635 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:29:31.261 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:29:31.281 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:29:31.430 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:29:37.028 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:29:37.028 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:29:37.037 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:29:37.950 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:29:37.951 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:29:39.109 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:29:39.110 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:29:45.520 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:29:45.522 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:29:45.980 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:29:46.383 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:30:57.422 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:30:57.439 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:30:57.704 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:31:03.222 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:31:03.223 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:31:03.232 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:31:04.377 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:31:04.378 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:31:05.493 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:31:05.494 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:31:11.840 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:31:11.841 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:31:12.169 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:31:12.440 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:35:11.657 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:35:11.676 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:35:11.949 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:35:17.727 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:35:17.727 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:35:17.742 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:35:18.883 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:35:18.884 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:35:19.936 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:35:19.936 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:35:24.231 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:35:24.232 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:35:24.603 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:35:24.899 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:35:36.986 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:35:37.006 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:35:37.271 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:35:42.943 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:35:42.943 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:35:42.952 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:35:43.861 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:35:43.862 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:35:45.176 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:35:45.176 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:35:51.610 [main] Log - Product added successfully
+[INFO ] 2023-07-03 22:35:51.611 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 22:35:51.612 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:35:51.937 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:35:52.208 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:36:44.794 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:36:44.816 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:36:45.081 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:36:50.568 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:36:50.569 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:36:50.577 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:36:52.235 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:36:52.236 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:36:53.953 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:36:53.954 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:37:00.431 [main] Log - Product added successfully
+[INFO ] 2023-07-03 22:37:00.432 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 22:37:00.433 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:37:00.759 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:37:01.047 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:46:50.796 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:46:50.913 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:46:51.107 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:46:57.027 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:46:57.027 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:46:57.034 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:46:58.227 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:46:58.228 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:46:59.391 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:46:59.392 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:47:00.505 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:47:00.505 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:47:00.839 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:47:01.189 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:49:39.719 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:49:39.734 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:49:40.008 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:49:45.891 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:49:45.891 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:49:45.902 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:49:46.820 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:49:46.821 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:49:48.138 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:49:48.139 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:49:49.572 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:49:49.574 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:49:49.914 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:49:50.182 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:50:56.926 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:50:56.942 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:50:57.109 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:51:02.635 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:51:02.636 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:51:02.646 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:51:03.548 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:51:03.549 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:51:04.850 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:51:04.850 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:51:06.504 [main] Log - Test failed: addProductToBasket
+[INFO ] 2023-07-03 22:51:06.505 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:51:06.802 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:51:07.073 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:53:35.831 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:53:35.851 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:53:36.111 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 22:53:41.823 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 22:53:41.823 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 22:53:41.833 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 22:53:42.957 [main] Log - Login exitoso
+[INFO ] 2023-07-03 22:53:42.958 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 22:53:44.109 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 22:53:44.112 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 22:53:50.593 [main] Log - Product added successfully
+[INFO ] 2023-07-03 22:53:50.597 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 22:53:50.598 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 22:53:51.200 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 22:53:51.487 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 22:59:55.763 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 22:59:55.883 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 22:59:56.119 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:00:02.867 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:00:02.867 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:00:02.877 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:00:04.068 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:00:04.070 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:00:05.054 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:00:05.230 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:00:05.232 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:00:05.611 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:00:05.943 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:03:10.144 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:03:10.270 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:03:10.524 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:03:17.333 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:03:17.335 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:03:17.344 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:03:18.733 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:03:18.733 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:03:19.604 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-03 23:03:19.604 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-03 23:03:26.116 [main] Log - Product added successfully
+[INFO ] 2023-07-03 23:03:26.116 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-03 23:03:26.117 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:03:26.585 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:03:26.980 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:03:35.766 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:03:35.787 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:03:35.976 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:03:41.511 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:03:41.511 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:03:41.518 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:03:43.146 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:03:43.147 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:03:44.252 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:03:44.391 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:03:44.392 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:03:44.675 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:03:44.973 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:04:35.821 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:04:35.945 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:04:36.138 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:04:41.777 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:04:41.778 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:04:41.784 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:04:42.726 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:04:42.727 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:04:44.079 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:04:46.255 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:04:46.257 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:04:46.551 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:04:46.811 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:09:51.322 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:09:51.438 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:09:51.622 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:09:57.279 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:09:57.280 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:09:57.294 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:09:58.231 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:09:58.232 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:09:59.416 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:10:04.660 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:10:04.664 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:10:05.047 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:10:05.325 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:13:15.703 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:13:15.723 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:13:15.906 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:13:22.850 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:13:22.851 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:13:22.859 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:13:23.813 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:13:23.814 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:13:24.988 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:13:37.199 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:13:37.199 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:13:37.490 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:13:37.757 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:14:17.153 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:14:17.171 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:14:17.339 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:14:22.631 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:14:22.632 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:14:22.639 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:14:24.112 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:14:24.113 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:14:25.334 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:14:30.562 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:14:30.564 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:14:30.833 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:14:31.122 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:17:46.712 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:17:46.731 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:17:46.920 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:17:53.222 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:17:53.223 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:17:53.229 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:17:54.336 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:17:54.337 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:17:56.084 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:18:10.245 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:18:10.246 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:18:10.566 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:18:10.859 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:19:03.086 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:19:03.103 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:19:03.267 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:19:08.806 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:19:08.806 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:19:08.814 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:19:09.953 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:19:09.954 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:19:11.124 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:19:18.440 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:19:18.441 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:19:18.732 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:19:19.030 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:26:40.509 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:26:40.535 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:26:40.726 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:26:46.419 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:26:46.419 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:26:46.428 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:26:47.366 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:26:47.367 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:26:48.663 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:27:02.919 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:27:02.920 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:27:03.223 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:27:03.645 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:36:41.540 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:36:41.662 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:36:41.850 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:36:48.261 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:36:48.261 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:36:48.268 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:36:49.586 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:36:49.587 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:36:50.506 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:36:54.756 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:36:54.757 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:36:55.066 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:36:55.368 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:39:59.151 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:39:59.170 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:39:59.338 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:40:05.168 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:40:05.168 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:40:05.176 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:40:06.324 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:40:06.325 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:40:07.468 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:40:21.739 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:40:21.740 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:40:22.067 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:40:22.324 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:42:12.543 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:42:12.560 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:42:12.726 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:42:18.504 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:42:18.504 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:42:18.510 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:42:20.133 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:42:20.133 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:42:21.846 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:42:26.034 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:42:26.036 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:42:26.429 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:42:26.715 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:44:13.544 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:44:13.563 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:44:13.730 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:44:19.311 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:44:19.311 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:44:19.319 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:44:20.975 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:44:20.976 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:44:22.038 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:44:26.365 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:44:26.366 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:44:26.671 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:44:26.951 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:47:51.392 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:47:51.423 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:47:51.610 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:47:57.363 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:47:57.363 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:47:57.371 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:47:58.326 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:47:58.327 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:47:59.446 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:48:13.745 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:48:13.746 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:48:14.037 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:48:14.306 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:48:48.973 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:48:48.993 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:48:49.159 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:48:54.768 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:48:54.769 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:48:54.780 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:48:56.003 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:48:56.005 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:48:57.128 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:49:03.554 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:49:03.555 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:49:03.892 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:49:04.171 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:52:55.038 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:52:55.063 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:52:55.259 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:53:02.199 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:53:02.200 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:53:02.208 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:53:03.333 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:53:03.334 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:53:05.100 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:53:09.345 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-03 23:53:09.346 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:53:09.651 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:53:10.020 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:54:22.838 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:54:22.857 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:54:23.041 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:54:28.860 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:54:28.861 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:54:28.869 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:54:29.997 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:54:29.999 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:54:31.170 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:54:35.513 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:54:35.515 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:54:35.922 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:54:36.201 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-03 23:55:23.757 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-03 23:55:23.774 [main] Log - Starting Extent Report
+[INFO ] 2023-07-03 23:55:23.936 [main] Log - Load Driver before test
+[INFO ] 2023-07-03 23:55:29.818 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-03 23:55:29.820 [main] Log - Starting getLogin test
+[INFO ] 2023-07-03 23:55:29.830 [main] Log - Iniciando el test
+[INFO ] 2023-07-03 23:55:30.863 [main] Log - Login exitoso
+[INFO ] 2023-07-03 23:55:30.864 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-03 23:55:32.187 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-03 23:55:38.507 [main] Log - Test passed: verifyLogin
+[INFO ] 2023-07-03 23:55:38.508 [main] Log - Taking Screenshot
+[INFO ] 2023-07-03 23:55:38.827 [main] Log - Closing Extent Report
+[INFO ] 2023-07-03 23:55:39.304 [main] Log - Suite finished: All Test Suite

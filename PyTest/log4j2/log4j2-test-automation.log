@@ -1,0 +1,125 @@
+[INFO ] 2023-07-12 18:40:19.507 [main] Log - Suite started: Default Suite
+[INFO ] 2023-07-12 18:40:19.526 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:40:19.883 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:40:27.268 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 18:40:27.269 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 18:40:27.276 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 18:40:48.254 [main] Log - Test failed: loginSuccess
+[INFO ] 2023-07-12 18:40:48.255 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:40:48.262 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:40:53.042 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-12 18:41:03.077 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-12 18:41:03.078 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:41:03.568 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:41:03.969 [main] Log - Suite finished: Default Suite
+[INFO ] 2023-07-12 18:41:33.830 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-12 18:41:33.847 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:41:34.009 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:41:39.434 [main] Log - Test started: registerWithParams
+[INFO ] 2023-07-12 18:41:39.434 [main] Log - Starting register test with params
+[INFO ] 2023-07-12 18:41:43.824 [main] Log - Se registro correctamente
+[INFO ] 2023-07-12 18:41:43.825 [main] Log - Test passed: registerWithParams
+[INFO ] 2023-07-12 18:41:43.827 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:41:44.195 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:41:44.572 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-12 18:42:41.120 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-12 18:42:41.137 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:42:41.298 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:42:46.889 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 18:42:46.890 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 18:42:46.896 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 18:42:47.793 [main] Log - Login exitoso
+[INFO ] 2023-07-12 18:42:47.794 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-12 18:42:48.920 [main] Log - Test started: testAddress
+[INFO ] 2023-07-12 18:42:48.920 [main] Log - Starting testAddress test
+[INFO ] 2023-07-12 18:42:50.831 [main] Log - Address se registro correctamente
+[INFO ] 2023-07-12 18:42:50.831 [main] Log - Test passed: testAddress
+[INFO ] 2023-07-12 18:42:50.833 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:42:51.085 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:42:51.318 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-12 18:43:00.305 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-12 18:43:00.321 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:43:00.466 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:43:05.502 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 18:43:05.503 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 18:43:05.508 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 18:43:06.399 [main] Log - Login exitoso
+[INFO ] 2023-07-12 18:43:06.400 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-12 18:43:07.467 [main] Log - Test started: addNewCard
+[INFO ] 2023-07-12 18:43:07.468 [main] Log - Starting addNewCard test
+[INFO ] 2023-07-12 18:43:08.685 [main] Log - Card added successfully
+[INFO ] 2023-07-12 18:43:08.685 [main] Log - Test passed: addNewCard
+[INFO ] 2023-07-12 18:43:08.687 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:43:08.983 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:43:09.204 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-12 18:43:20.982 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-12 18:43:21.000 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:43:21.140 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:43:25.982 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 18:43:25.982 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 18:43:25.988 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 18:43:27.650 [main] Log - Login exitoso
+[INFO ] 2023-07-12 18:43:27.651 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-12 18:43:28.695 [main] Log - Test started: addProductToBasket
+[INFO ] 2023-07-12 18:43:28.695 [main] Log - Starting addProductToBasket test
+[INFO ] 2023-07-12 18:43:35.142 [main] Log - Product added successfully
+[INFO ] 2023-07-12 18:43:35.143 [main] Log - Test passed: addProductToBasket
+[INFO ] 2023-07-12 18:43:35.145 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:43:35.532 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:43:35.779 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-12 18:44:01.273 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-12 18:44:01.293 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:44:01.427 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:44:06.570 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 18:44:06.570 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 18:44:06.575 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 18:44:07.431 [main] Log - Login exitoso
+[INFO ] 2023-07-12 18:44:07.432 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-12 18:44:08.527 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-12 18:44:24.762 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-12 18:44:24.763 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:44:25.011 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:44:25.272 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-12 18:45:03.309 [main] Log - Suite started: Default Suite
+[INFO ] 2023-07-12 18:45:03.325 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:45:03.458 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:45:08.461 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 18:45:08.461 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 18:45:08.468 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 18:45:09.934 [main] Log - Login exitoso
+[INFO ] 2023-07-12 18:45:09.935 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-12 18:45:09.936 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:45:10.174 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:45:14.570 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-12 18:45:24.630 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-12 18:45:24.631 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:45:25.039 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:45:25.337 [main] Log - Suite finished: Default Suite
+[INFO ] 2023-07-12 18:45:49.126 [main] Log - Suite started: All Test Suite
+[INFO ] 2023-07-12 18:45:49.144 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 18:45:49.278 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 18:45:54.253 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 18:45:54.253 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 18:45:54.260 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 18:45:55.731 [main] Log - Login exitoso
+[INFO ] 2023-07-12 18:45:55.732 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-12 18:45:56.888 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-12 18:46:13.176 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-12 18:46:13.178 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 18:46:13.455 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 18:46:13.648 [main] Log - Suite finished: All Test Suite
+[INFO ] 2023-07-12 19:00:14.634 [main] Log - Suite started: Default Suite
+[INFO ] 2023-07-12 19:00:14.651 [main] Log - Starting Extent Report
+[INFO ] 2023-07-12 19:00:14.835 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 19:00:20.482 [main] Log - Test started: loginSuccess
+[INFO ] 2023-07-12 19:00:20.482 [main] Log - Starting getLogin test
+[INFO ] 2023-07-12 19:00:20.489 [main] Log - Iniciando el test
+[INFO ] 2023-07-12 19:00:22.296 [main] Log - Login exitoso
+[INFO ] 2023-07-12 19:00:22.298 [main] Log - Test passed: loginSuccess
+[INFO ] 2023-07-12 19:00:22.300 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 19:00:22.581 [main] Log - Load Driver before test
+[INFO ] 2023-07-12 19:00:27.090 [main] Log - Test started: verifyLogin
+[INFO ] 2023-07-12 19:00:37.106 [main] Log - Test failed: verifyLogin
+[INFO ] 2023-07-12 19:00:37.107 [main] Log - Taking Screenshot
+[INFO ] 2023-07-12 19:00:37.664 [main] Log - Closing Extent Report
+[INFO ] 2023-07-12 19:00:37.978 [main] Log - Suite finished: Default Suite

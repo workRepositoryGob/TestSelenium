@@ -1,0 +1,8 @@
+NOMBRE:WILLIAN RONALD
+APELLIDO:SIALER RIVAS
+
+testng.xml=Realizar un registro 
+testng1.xml=agregar direccion
+testng2.xml=agregar tarjeta
+testng3.xml=agrega algunos productos solo de la pagina 1
+testng4.xml= procesa el carrito de compras
