@@ -1,6 +1,6 @@
 NOMBRE:WILLIAN RONALD
 APELLIDO:SIALER RIVAS
-
+Description:Py con selenium y java usando patron de diseño POM
 testng.xml=Realizar un registro 
 testng1.xml=agregar direccion
 testng2.xml=agregar tarjeta
